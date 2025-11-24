@@ -1,0 +1,7 @@
+services:
+  postgres:
+    image: pgvector/pgvector:pg15
+    environment:
+      POSTGRES_PASSWORD: mypass
+    ports:
+      - "5432:5432"

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIRagSoleItem", "APIRagSoleItem\APIRagSoleItem.csproj", "{68D62014-BADF-4C20-94CC-0F7C701F8891}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopInsert", "LoopInsert\LoopInsert.csproj", "{98383EA7-3499-473B-A78D-C4F52CA2DB11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68D62014-BADF-4C20-94CC-0F7C701F8891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D62014-BADF-4C20-94CC-0F7C701F8891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D62014-BADF-4C20-94CC-0F7C701F8891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D62014-BADF-4C20-94CC-0F7C701F8891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98383EA7-3499-473B-A78D-C4F52CA2DB11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98383EA7-3499-473B-A78D-C4F52CA2DB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98383EA7-3499-473B-A78D-C4F52CA2DB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98383EA7-3499-473B-A78D-C4F52CA2DB11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

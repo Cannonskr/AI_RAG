@@ -1,0 +1,5 @@
+--เข้า Docker
+docker exec -it myfolder-postgres-1 psql -U postgres
+
+--เปิด function
+CREATE EXTENSION IF NOT EXISTS vector;
